@@ -16,5 +16,5 @@ This course is using the :sparkles: open source project [reveal.js](https://gith
 ## Section 1.1
 # Section 2
 ```
-Test
+Test (changed by MHE, 13:11)
 ```
